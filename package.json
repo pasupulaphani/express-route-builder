@@ -17,7 +17,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "debug": "^2.2.0"
   },
   "devDependencies": {
     "eslint": "^0.24.0",
